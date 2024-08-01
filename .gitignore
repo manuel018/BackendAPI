@@ -1,0 +1,68 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# Directorios de construcción y dependencias
+target/
+build/
+nbbuild/
+nbdist/
+nbproject/private/
+*.jar
+*.war
+*.ear
+
+# Archivos y directorios generados por IDEs
+.idea/
+*.iml
+*.class
+*.log
+*.db
+*.sqlite
+*.h2
+*.h2*
+
+# Archivos de configuración de usuario y del IDE
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de configuración específicos del entorno
+*.local.properties
+*.env
+*/application.properties
+
+# Archivos de configuración de Maven y Gradle
+.m2/
+.gradle/
+
+# Archivos de cobertura de prueba
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+# Archivos de configuración de CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
